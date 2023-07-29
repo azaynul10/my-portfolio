@@ -38,14 +38,12 @@ const projectList = [
   },
   {
     title: "Flowcharts",
-    description:
-      "This blog will give you some ideas about flowcharts and how to create them.",
+    description: "This blog will give you some ideas about flowcharts and how to create them.",
     url: "https://dev.to/azaynul10/flowcharts-oka",
   },
   {
     title: "My Microsoft learn student ambassador profile",
-    description:
-      "My Microsoft learn student ambassador profile",
+    description: "My Microsoft learn student ambassador profile",
     url: "hhttps://studentambassadors.microsoft.com/en-US/studentambassadors/profile/0aa833b2-8b54-4e12-b0ea-d4a3fb435449",
   },
   {
