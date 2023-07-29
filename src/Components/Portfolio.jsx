@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/src/images/vr.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Man wearing Vr Goggles";
 
 /**
  * Project list
@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Introduction To Data Structure And Algorithms",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This blog will introduce you to the world of Data Structure and Algorithms with some real life examples.",
+    url: "https://dev.to/azaynul10/introduction-to-data-structure-and-algorithms-2j7k",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Flowcharts",
+    description: "This blog will give you some ideas about flowcharts and how to create them.",
+    url: "https://dev.to/azaynul10/flowcharts-oka",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "My Microsoft learn student ambassador profile",
+    description: "My Microsoft learn student ambassador profile",
+    url: "hhttps://studentambassadors.microsoft.com/en-US/studentambassadors/profile/0aa833b2-8b54-4e12-b0ea-d4a3fb435449",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Introduction To Machine Learning",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "In this blog you will get to know about the basics of Machine Learning which I learned through AWS Machine Learning Scholarship Program.",
+    url: "https://dev.to/azaynul10/introduction-to-machine-learning-2bp6",
   },
 ];
 
